@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 1 Nose Mat 1
-  m_Shader: {fileID: -6465566751694194690, guid: b6f6d5bf6e544dd45b085bc507a3a106, type: 3}
+  m_Name: MyBestMat
+  m_Shader: {fileID: -6465566751694194690, guid: 91aa2ffe278858b46baf475ce405244f, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -60,6 +60,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_97492ba560c34cc5bce4281613ca31e8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: bc83150edda331e4ca31fffc7bb4e76a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a1fedd29c7734fa490af40948eb7e1d3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d553fbfcec0e35a409afbef5ce52a0bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -105,13 +113,15 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _noisePower: 50
+    - _ther: 0.5
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &5882564987070719432
+--- !u!114 &3117515260871416406
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

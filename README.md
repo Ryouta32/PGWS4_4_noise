@@ -24,9 +24,9 @@ https://github.com/Ryouta32/PGWS4_4_noise/assets/90999621/9fd68e42-bf71-47f6-805
 ![node](https://github.com/Ryouta32/PGWS4_4_noise/assets/90999621/3575beb6-73e8-49e7-b76a-1fb09ca7d3ee)
 
 ## 自分なりに変更した点
--
--枠線を作成してレアカードのようにした
--
+
+枠線を作成してレアカードのようにした
+
 
 ## 進め方
 

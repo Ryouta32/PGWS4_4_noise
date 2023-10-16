@@ -19,12 +19,12 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](result.gif)
+https://github.com/Ryouta32/PGWS4_4_noise/assets/90999621/9fd68e42-bf71-47f6-8054-8aba6b1814aa
 
-![シェーダグラフ](node_graph.png)
+![node](https://github.com/Ryouta32/PGWS4_4_noise/assets/90999621/3575beb6-73e8-49e7-b76a-1fb09ca7d3ee)
 
 ## 自分なりに変更した点
--
+-枠線を作成してレアカードのようにした
 -
 -
 
